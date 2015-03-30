@@ -144,4 +144,4 @@ def smeshenie_izobrazheniya(container):
 
 
 interface()
-input("Press Enter")
+input("Press Enter1")
