@@ -56,7 +56,7 @@ def message_encode(container, text):
 	return bytes(container)
 
 
-def message_decode(text_container):
+def message_decode(text_container):#Снова поменять
 	#Функция декодирования сообщения
 	#Принимает строку байтов и извлекает сообщение 
 	#из 2 последних битов в байтах
